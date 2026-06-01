@@ -1,0 +1,33 @@
+body {
+	background-image: url('фон.jpg');
+	background-repeat: no-repeat;
+	background-position: center 0px;
+	background-size: cover;
+}
+.info-txt {
+	color: #949494;
+	text-align: center;
+	padding-top: 100px;
+
+}
+.info-txt1 {
+	color: #949494;
+	display: inline-block;
+	padding-top: 20px;
+}
+.info-txt0 {
+	color: green;
+	display: inline-block;
+	margin-left: 100px;
+
+}
+.indo0 {
+
+	display: flex;
+	flex-wrap: wrap;
+}
+.dalee{
+	margin-left: 90%;
+	color: gray;
+	text-align: center;
+}
